@@ -31,11 +31,11 @@ This project successfully developed a comprehensive salary prediction system for
 
 ### Key Achievements:
 
-- ✅ Processed 15,001 job records with 20 features
-- ✅ Implemented 4 different regression algorithms
-- ✅ Achieved 87.36% variance explanation in salary prediction
-- ✅ Identified top salary-influencing factors
-- ✅ Created deployment-ready prediction model
+- Processed 15,001 job records with 20 features
+- Implemented 4 different regression algorithms
+- Achieved 87.36% variance explanation in salary prediction
+- Identified top salary-influencing factors
+- Created deployment-ready prediction model
 
 ---
 
